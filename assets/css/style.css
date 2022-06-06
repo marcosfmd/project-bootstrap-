@@ -1,0 +1,38 @@
+nav {
+  z-index: 999;
+  top : 0;
+  left: 0;
+}
+
+#img-style {
+  height: 580px;
+}
+
+.modal-body img{
+  width: 100%;
+}
+
+.max-text {
+  max-width: 1200px;
+  margin-left: 20px;
+}
+
+.container-icon {
+  width: 150px;
+}
+
+.bi-whatsapp {
+  color: green;
+  font-size: 150px;
+  text-align: center;
+}
+
+.page-footer {
+  background-color: #333;
+}
+
+.page-footer p {
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
